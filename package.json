@@ -22,8 +22,6 @@
   },
   "homepage": "https://github.com/maldonadod/melitest#readme",
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "promise-all": "^1.0.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.1"
   }
