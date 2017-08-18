@@ -1,0 +1,30 @@
+{
+  "name": "melitest",
+  "version": "0.0.1",
+  "description": "Nodejs meli-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maldonadod/melitest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "meli",
+    "test"
+  ],
+  "author": "maldonadod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maldonadod/melitest/issues"
+  },
+  "homepage": "https://github.com/maldonadod/melitest#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "promise-all": "^1.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
